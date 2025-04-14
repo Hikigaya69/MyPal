@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Flutter Riverpod Todo App
 [![Flutter version](https://img.shields.io/badge/flutter-stable-blue?logo=flutter)](https://flutter.dev/docs/development/tools/sdk/releases)
 [![License: MIT](https://img.shields.io/badge/license-MIT-purple.svg)](https://opensource.org/licenses/MIT)
@@ -22,3 +23,7 @@ git clone https://github.com/IsaiasCuvula/flutter_riverpod_todo_app
 <img width="200" alt="iPhone13Mockup1" src="https://github.com/IsaiasCuvula/flutter_riverpod_todo_app/assets/68303716/62148f69-34f8-4f49-9889-a6649336723b" />
 </p>
 
+=======
+# MyPal
+A flutter project which has to-do list along with the weather api attached to it
+>>>>>>> 3b2a531303ea512a994524ea5903568edcc88c9d
