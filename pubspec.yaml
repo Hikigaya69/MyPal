@@ -1,0 +1,32 @@
+name: flutter_riverpod_todo_app
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+
+dependencies:
+  equatable: ^2.0.5
+  flex_color_scheme: ^8.0.2
+  flutter:
+    sdk: flutter
+  http: ^1.2.2
+  flutter_riverpod: ^2.3.6
+  font_awesome_flutter: ^10.5.0
+  gap: ^3.0.1
+  go_router: ^14.6.2
+  google_fonts: ^6.2.1
+  intl: ^0.20.1
+  path: ^1.8.3
+  sqflite: ^2.3.0
+  geolocator: ^9.0.2
+  geocoding: ^2.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
